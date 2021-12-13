@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		EF81B485276728F10086AC9A /* SolveMeFirst.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SolveMeFirst.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		EF81B47E276728DF0086AC9A = {
+			isa = PBXGroup;
+			children = (
+				EF81B485276728F10086AC9A /* SolveMeFirst.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		EF81B47F276728DF0086AC9A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1300;
+			};
+			buildConfigurationList = EF81B482276728DF0086AC9A /* Build configuration list for PBXProject "HackerRank" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EF81B47E276728DF0086AC9A;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		EF81B483276728DF0086AC9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		EF81B484276728DF0086AC9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EF81B482276728DF0086AC9A /* Build configuration list for PBXProject "HackerRank" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF81B483276728DF0086AC9A /* Debug */,
+				EF81B484276728DF0086AC9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EF81B47F276728DF0086AC9A /* Project object */;
+}
