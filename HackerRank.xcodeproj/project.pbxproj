@@ -9,12 +9,14 @@
 /* Begin PBXFileReference section */
 		EF81B485276728F10086AC9A /* SolveMeFirst.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SolveMeFirst.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF81B48627682DBC0086AC9A /* CompareTheTriplets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CompareTheTriplets.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF81B487276840920086AC9A /* AVeryBigSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AVeryBigSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		EF81B47E276728DF0086AC9A = {
 			isa = PBXGroup;
 			children = (
+				EF81B487276840920086AC9A /* AVeryBigSum.playground */,
 				EF81B48627682DBC0086AC9A /* CompareTheTriplets.playground */,
 				EF81B485276728F10086AC9A /* SolveMeFirst.playground */,
 			);
