@@ -15,6 +15,7 @@
 		EF6D21D42773153E00C4A312 /* MinMaxSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MinMaxSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF76330127829F9700E5479D /* GradingStudents.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GradingStudents.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF7633022782DEA200E5479D /* AppleAndOrange.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AppleAndOrange.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF7633032782E8E000E5479D /* SimpleArraySum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SimpleArraySum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF81B485276728F10086AC9A /* SolveMeFirst.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SolveMeFirst.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF81B48627682DBC0086AC9A /* CompareTheTriplets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CompareTheTriplets.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF81B487276840920086AC9A /* AVeryBigSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AVeryBigSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -34,6 +35,7 @@
 				EF6D21D0276873FC00C4A312 /* DiagonalDifference.playground */,
 				EF81B487276840920086AC9A /* AVeryBigSum.playground */,
 				EF81B48627682DBC0086AC9A /* CompareTheTriplets.playground */,
+				EF7633032782E8E000E5479D /* SimpleArraySum.playground */,
 				EF81B485276728F10086AC9A /* SolveMeFirst.playground */,
 			);
 			sourceTree = "<group>";
