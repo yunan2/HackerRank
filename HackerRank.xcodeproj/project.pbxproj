@@ -14,6 +14,7 @@
 		EF6D21D32773074B00C4A312 /* Staircase.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Staircase.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF6D21D42773153E00C4A312 /* MinMaxSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MinMaxSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF76330127829F9700E5479D /* GradingStudents.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GradingStudents.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF7633022782DEA200E5479D /* AppleAndOrange.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AppleAndOrange.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF81B485276728F10086AC9A /* SolveMeFirst.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SolveMeFirst.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF81B48627682DBC0086AC9A /* CompareTheTriplets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CompareTheTriplets.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF81B487276840920086AC9A /* AVeryBigSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AVeryBigSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -23,6 +24,7 @@
 		EF81B47E276728DF0086AC9A = {
 			isa = PBXGroup;
 			children = (
+				EF7633022782DEA200E5479D /* AppleAndOrange.playground */,
 				EF76330127829F9700E5479D /* GradingStudents.playground */,
 				EF084116277AFA7B00CF1032 /* TimeConversion.playground */,
 				EF084115277AECBA00CF1032 /* BirthdayCakeCandles.playground */,

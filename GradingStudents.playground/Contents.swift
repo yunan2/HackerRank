@@ -107,9 +107,8 @@ func gradingStudents(grades: [Int]) -> [Int] {
      var resultArr: [Int] = []
 
      for point in grades {
-         let backwardValue = point % 5
-         if point > 37 && 5 - backwardValue < 3 {
-              resultArr.append(point + (5 - backwardValue))
+         if point > 37 && 5 - point % 5 < 3 {
+              resultArr.append(point + (5 - point % 5))
           } else {
              resultArr.append(point)
          }
