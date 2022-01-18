@@ -172,6 +172,27 @@
 			<key>orderHint</key>
 			<integer>9</integer>
 		</dict>
+		<key>Migratory Birds (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>28</integer>
+		</dict>
+		<key>Migratory Birds (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>29</integer>
+		</dict>
+		<key>Migratory Birds (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>27</integer>
+		</dict>
 		<key>MinMaxSum (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>

@@ -19,6 +19,7 @@
 		EF763304278427EE00E5479D /* BreakingTheRecords.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BreakingTheRecords.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF763305278D5A3000E5479D /* SubarrayDivision.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SubarrayDivision.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF763306278D5EFC00E5479D /* DivisibleSumPairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DivisibleSumPairs.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF7633072796618300E5479D /* Migratory Birds.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Migratory Birds.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF81B485276728F10086AC9A /* SolveMeFirst.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SolveMeFirst.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF81B48627682DBC0086AC9A /* CompareTheTriplets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CompareTheTriplets.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF81B487276840920086AC9A /* AVeryBigSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AVeryBigSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -28,6 +29,7 @@
 		EF81B47E276728DF0086AC9A = {
 			isa = PBXGroup;
 			children = (
+				EF7633072796618300E5479D /* Migratory Birds.playground */,
 				EF763306278D5EFC00E5479D /* DivisibleSumPairs.playground */,
 				EF763305278D5A3000E5479D /* SubarrayDivision.playground */,
 				EF763304278427EE00E5479D /* BreakingTheRecords.playground */,
