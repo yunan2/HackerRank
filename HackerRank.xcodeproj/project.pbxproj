@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		EF084115277AECBA00CF1032 /* BirthdayCakeCandles.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BirthdayCakeCandles.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF084116277AFA7B00CF1032 /* TimeConversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimeConversion.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF4D4CED27A11E5000301749 /* Bill Division.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Bill Division.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF6D21D0276873FC00C4A312 /* DiagonalDifference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DiagonalDifference.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF6D21D227688B2500C4A312 /* PlusMinus.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PlusMinus.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF6D21D32773074B00C4A312 /* Staircase.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Staircase.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -30,6 +31,7 @@
 		EF81B47E276728DF0086AC9A = {
 			isa = PBXGroup;
 			children = (
+				EF4D4CED27A11E5000301749 /* Bill Division.playground */,
 				EF7633082796942F00E5479D /* DayOfTheProgrammer.playground */,
 				EF7633072796618300E5479D /* Migratory Birds.playground */,
 				EF763306278D5EFC00E5479D /* DivisibleSumPairs.playground */,
