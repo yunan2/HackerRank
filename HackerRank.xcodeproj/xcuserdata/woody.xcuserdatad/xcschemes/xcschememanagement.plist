@@ -130,6 +130,27 @@
 			<key>orderHint</key>
 			<integer>16</integer>
 		</dict>
+		<key>CountingValleys (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
+		<key>CountingValleys (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
+		<key>CountingValleys (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
 		<key>DayOfTheProgrammer (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
